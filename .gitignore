@@ -43,3 +43,6 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+/src/main/resources/config-dev.yaml
+/src/main/resources/config-prod.yaml
